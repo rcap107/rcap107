@@ -1,8 +1,10 @@
-Hello! I'm Riccardo Cappuzzo (@rcap107 here). I am currently working on a PhD in Data Science at Eurecom. 
+Hello! I'm Riccardo Cappuzzo (@rcap107). I will soon be defending my PhD thesis in "Deep learning models for data curation".
 
-I am interested in word embeddings, GNNs and their application to data cleaning. 
+I work mostly with Python and its data science libraries (Pytorch, Pandas, Numpy). 
 
-I'm also trying to set up a proper blog where to report some of my results. 
+I am interested in word embeddings, graph embeddings, graph neural networks and how they can be applied to data curation tasks. 
+
+I have implemented [EmbDI](https://gitlab.eurecom.fr/cappuzzo/embdi), a data integration system based on tabular embeddings. 
 
 <!---
 rcap107/rcap107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
