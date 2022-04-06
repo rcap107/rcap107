@@ -1,4 +1,4 @@
-Hello! I'm Riccardo Cappuzzo (@rcap107). I will soon be defending my PhD thesis in "Deep learning models for data curation".
+Hello! I'm Riccardo Cappuzzo (@rcap107). I hold a PhD in Computer Science on the subject of "Deep Learning Models for Tabular Data Curation". 
 
 I work mostly with Python and its data science libraries (Pytorch, Pandas, Numpy). 
 
