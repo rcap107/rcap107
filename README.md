@@ -1,6 +1,6 @@
-Hello! I'm Riccardo Cappuzzo (@rcap107). I hold a PhD in Computer Science on the subject of "Deep Learning Models for Tabular Data Curation". 
+Hello! I'm Riccardo Cappuzzo (@rcap107). I am a postdoctoral researcher at Inria Saclay and Dataiku. I am working on methods for generating embedding representations of tabular data, and their use in prediction tasks. 
 
-I work mostly with Python and its data science libraries (Pytorch, Pandas, Numpy). 
+I work mostly with Python and its data science libraries (Pytorch, Pandas, Numpy, scikit-learn). 
 
 I am interested in word embeddings, graph embeddings, graph neural networks and how they can be applied to data curation tasks. 
 
