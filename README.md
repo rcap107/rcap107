@@ -1,12 +1,15 @@
-Hello! I'm Riccardo Cappuzzo (@rcap107). I am a postdoctoral researcher at [Inria Saclay](https://team.inria.fr/soda/) and [Dataiku](https://www.dataiku.com). I am working on wrangling tabular data so that it can be used for Machine Learning tasks. 
+Hello! I'm Riccardo. 
 
-I work mostly with Python and its data science libraries (Pytorch, Pandas, Numpy, scikit-learn, matplotlib, seaborn). 
+I am a research engineer working on the [Skrub library](https://skrub-data.org/) at Inria Saclay. 
 
-I am interested in word embeddings, graph embeddings, graph neural networks and how they can be applied to data curation tasks. 
+I am mostly interested in tabular data cleaning and processing, information retrieval, feature selection, and how to optimize machine learning tasks around that. I have also worked with word and graph embeddings, graph neural networks, and their application to data curation tasks. 
 
-I have implemented [EmbDI](https://github.com/rcap107/embdi), a data integration system based on tabular embeddings. 
+I work mostly with Python and its data science libraries (Polars, Pandas, scikit-learn, skrub, numpy, matplotlib, seaborn...). 
 
-<!---
-rcap107/rcap107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My main projects are:
+- [EmbDI](https://github.com/rcap107/embdi)
+- [YADL](https://github.com/rcap107/YADL)
+- [Retrieve, Merge, Predict](https://github.com/rcap107/retrieve-merge-predict)
+- [GRIMP](https://github.com/rcap107/GRIMP)
+
+If you want to reach out, you may contact me on [Linkedin](https://www.linkedin.com/in/riccardo-cappuzzo/) or send me an email to `riccardo[dot]cappuzzo[at]protonmail[dot]me`. 
