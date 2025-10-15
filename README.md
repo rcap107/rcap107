@@ -12,4 +12,4 @@ My main projects are:
 - [Retrieve, Merge, Predict](https://github.com/rcap107/retrieve-merge-predict)
 - [GRIMP](https://github.com/rcap107/GRIMP)
 
-If you want to reach out, you may contact me on [Linkedin](https://www.linkedin.com/in/riccardo-cappuzzo/) or send me an email to `riccardo[dot]cappuzzo[at]protonmail[dot]me`. 
+If you want to reach out, you may contact me on [Linkedin](https://www.linkedin.com/in/riccardo-cappuzzo/) or send me an email to `riccardo[dot]cappuzzo[at]proton[dot]me`. 
